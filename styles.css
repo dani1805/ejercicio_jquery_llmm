@@ -1,0 +1,22 @@
+th {
+    color: white;
+    background-color: #008001;
+    text-align: center;
+    border: black 1px solid;
+    padding: 10px;
+
+}
+
+td {
+    text-align: left;
+    color: #008001;
+    border: black 2px solid;
+    padding: 10px;
+    
+}
+
+table {
+    font-size: 1.5em;
+    border: black 2px solid;
+    margin-left: 20%;
+}
